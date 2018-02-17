@@ -1,2 +1,3 @@
 # hello-word
-jsut a triler
+just a triler
+this is new to try and maybe gona like
